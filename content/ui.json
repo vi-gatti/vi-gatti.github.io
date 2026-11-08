@@ -1,0 +1,92 @@
+{
+  "en": {
+    "work": "Work",
+    "case": "Case study",
+    "on_page": "On this page",
+    "sections_label": "Sections of this case",
+    "toc": [
+      "Project overview",
+      "Context",
+      "The challenge",
+      "Research objectives",
+      "Research approach",
+      "Key findings",
+      "From research to decisions",
+      "Outcomes",
+      "My contribution"
+    ],
+    "facts": [
+      "Industry",
+      "Organisation",
+      "Project duration",
+      "Year"
+    ],
+    "scope": "Research scope",
+    "next": "Next",
+    "note": "Note",
+    "figure_note_label": "Note",
+    "read": "Read case study",
+    "country": "Brazil",
+    "teaser_case": "Case"
+  },
+  "es": {
+    "work": "Proyectos",
+    "case": "Caso",
+    "on_page": "En esta página",
+    "sections_label": "Secciones de este caso",
+    "toc": [
+      "Visión general",
+      "Contexto",
+      "El reto",
+      "Objetivos de investigación",
+      "Enfoque de investigación",
+      "Hallazgos principales",
+      "De la investigación a las decisiones",
+      "Resultados",
+      "Mi contribución"
+    ],
+    "facts": [
+      "Sector",
+      "Organización",
+      "Duración del proyecto",
+      "Año"
+    ],
+    "scope": "Alcance de la investigación",
+    "next": "Siguiente",
+    "note": "Nota",
+    "figure_note_label": "Nota",
+    "read": "Leer el caso",
+    "country": "Brasil",
+    "teaser_case": "Caso"
+  },
+  "pt": {
+    "work": "Projetos",
+    "case": "Case",
+    "on_page": "Nesta página",
+    "sections_label": "Seções deste case",
+    "toc": [
+      "Visão geral",
+      "Contexto",
+      "O desafio",
+      "Objetivos da pesquisa",
+      "Abordagem da pesquisa",
+      "Principais descobertas",
+      "Da pesquisa às decisões",
+      "Resultados",
+      "Minha contribuição"
+    ],
+    "facts": [
+      "Setor",
+      "Organização",
+      "Duração do projeto",
+      "Ano"
+    ],
+    "scope": "Escopo da pesquisa",
+    "next": "Próximo",
+    "note": "Nota",
+    "figure_note_label": "Nota",
+    "read": "Ler o case",
+    "country": "Brasil",
+    "teaser_case": "Case"
+  }
+}

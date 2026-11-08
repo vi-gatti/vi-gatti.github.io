@@ -1,0 +1,23 @@
+<svg class="cover-ill" viewBox="0 0 1600 700" role="img" aria-label="{label}">
+  <circle class="ill-shade" cx="980" cy="330" r="230"/>
+  <circle class="ill-accent" cx="520" cy="520" r="120"/>
+  <circle class="ill-stroke" cx="1290" cy="150" r="54"/>
+  <line class="ill-line" x1="80" y1="640" x2="1520" y2="640"/>
+  <g transform="rotate(-8 640 330)">
+    <rect class="ill-shade" x="548" y="112" width="240" height="470" rx="36"/>
+    <rect class="ill-stroke ill-fill" x="530" y="94" width="240" height="470" rx="36"/>
+    <rect class="ill-thin" x="552" y="140" width="196" height="370" rx="10"/>
+    <path class="ill-stroke" d="M600 300l50-42 50 42M612 292v62h76v-62"/>
+    <path class="ill-thin" d="M580 410h140M580 440h100M580 470h120"/>
+  </g>
+  <g transform="rotate(8 990 320)">
+    <rect class="ill-shade" x="898" y="102" width="240" height="470" rx="36"/>
+    <rect class="ill-stroke ill-fill" x="880" y="84" width="240" height="470" rx="36"/>
+    <rect class="ill-thin" x="902" y="130" width="196" height="370" rx="10"/>
+    <path class="ill-stroke" d="M950 340v-20M980 340v-40M1010 340v-60M1040 340v-80"/>
+    <path class="ill-thin" d="M930 410h140M930 440h100M930 470h120"/>
+  </g>
+  <path class="ill-accent ill-dash" d="M780 300 C 820 260, 850 260, 880 290"/>
+  <circle class="ill-dot" cx="780" cy="300" r="7"/>
+  <circle class="ill-dot" cx="880" cy="290" r="7"/>
+</svg>

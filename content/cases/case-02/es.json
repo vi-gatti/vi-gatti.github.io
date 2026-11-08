@@ -1,0 +1,165 @@
+{
+  "title": "Strategic UX Research para la transformación digital",
+  "meta_title": "Caso 02 · Strategic UX Research para la transformación digital · Virginia Candido Gatti",
+  "meta_desc": "Caso: investigación sobre journeys fragmentados de clientes dentro de una transformación digital que reunió el autoservicio residencial y móvil en una sola experiencia.",
+  "sub": "Investigación sobre journeys fragmentados de clientes, dentro de una transformación que reunió el autoservicio residencial y móvil en una sola experiencia.",
+  "sector": "Telecomunicaciones",
+  "facts": [
+    "Telecomunicaciones",
+    "Gran operador de telecomunicaciones brasileño",
+    "6 meses",
+    "2023"
+  ],
+  "tags": [
+    "Strategic UX Research",
+    "Customer Insights",
+    "Market Research",
+    "Análisis competitivo",
+    "Investigación de usabilidad",
+    "Omnicanalidad"
+  ],
+  "cover_label": "Ilustración de líneas: dos teléfonos, uno con el icono de una casa y otro con barras de señal, unidos por una línea punteada, con círculos al fondo.",
+  "overview": [
+    "Investigación estratégica y de UX para un gran operador de telecomunicaciones brasileño, como parte de una <strong>transformación digital</strong> que reunió sus apps de autoservicio residencial y móvil en una sola experiencia.",
+    "Durante seis meses, la investigación conectó la <strong>evidencia sobre los clientes</strong> con las decisiones de producto, negocio y tecnología, desde el discovery hasta la primera fase de implementación.",
+    "La integración fue un paso concreto dentro de un esfuerzo más amplio para <strong>reducir la fragmentación</strong> entre servicios, sistemas y puntos de contacto con el cliente."
+  ],
+  "context": [
+    "La empresa había crecido durante décadas con distintos productos, sistemas y estructuras organizativas. Los clientes residenciales y móviles gestionaban sus servicios en <strong>apps separadas</strong>, incluso cuando eran clientes de ambos.",
+    "La fragmentación también era interna. Sistemas y equipos distintos dificultaban construir una <strong>visión única del cliente</strong> y comunicarse de forma coherente entre canales."
+  ],
+  "statement": "Los clientes no deberían tener que entender cómo se organiza la empresa para resolver sus problemas.",
+  "challenge": [
+    "El reto no era solo unir dos aplicaciones. Era entender dónde los journeys fragmentados generaban fricción y qué debía ofrecer un <strong>servicio más integrado</strong> a clientes residenciales, móviles y con servicios combinados.",
+    "Había <strong>tres niveles</strong> en juego: cómo los clientes accedían a sus servicios y los gestionaban, la coherencia de la experiencia entre canales y la integración de áreas, productos y sistemas detrás de ella."
+  ],
+  "objectives_lead": "La investigación se propuso:",
+  "objectives": [
+    "Comprender cómo utilizaban los distintos perfiles de clientes los servicios residenciales y móviles.",
+    "Mapear necesidades y puntos de dolor en los journeys digitales existentes.",
+    "Examinar cómo organizaban sus servicios digitales los <strong>operadores de la competencia</strong>.",
+    "Identificar qué grupos de clientes se verían más afectados por la integración.",
+    "Evaluar funcionalidades existentes y propuestas con usuarios."
+  ],
+  "approach_intro": "Un enfoque de <strong>métodos mixtos</strong> en tres momentos, en paralelo al trabajo de integración.",
+  "stages": [
+    {
+      "title": "Investigación y discovery",
+      "paras": [
+        "Entrevistas con clientes y stakeholders, cuestionarios, análisis de <strong>NPS y TNPS</strong>, investigación de mercado y de competidores y análisis de journeys. Los resultados se sintetizaron en tres personas basadas en la investigación."
+      ]
+    },
+    {
+      "title": "Alineamiento estratégico",
+      "paras": [
+        "Los hallazgos se discutieron con UX y diseño, producto, tecnología y dirección, conectando la <strong>evidencia sobre los clientes</strong> con las prioridades de la integración."
+      ]
+    },
+    {
+      "title": "Seguimiento de la implementación",
+      "paras": [
+        "Las <strong>pruebas de usabilidad moderadas y no moderadas</strong> continuaron a medida que se proponían nuevos flujos, y reuniones semanales entre áreas acompañaron las primeras entregas de la integración."
+      ]
+    }
+  ],
+  "photos_label": "La investigación en la práctica",
+  "photos": [
+    {
+      "src": "usability-store",
+      "w": [
+        640,
+        768
+      ],
+      "size": [
+        768,
+        910
+      ],
+      "cls": "store",
+      "alt": "Investigadoras realizando una prueba de usabilidad en tienda con dos clientes. Rostros difuminados.",
+      "caption": "<strong>Prueba de usabilidad en tienda</strong>, observando cómo los clientes pasaban de los canales físicos a los digitales."
+    },
+    {
+      "src": "usability-remote",
+      "w": [
+        640,
+        1200
+      ],
+      "size": [
+        1200,
+        675
+      ],
+      "cls": "remote",
+      "alt": "Sesión remota moderada de usabilidad con el prototipo de la pantalla de acceso unificada, con la investigadora visible. Los demás participantes están difuminados.",
+      "caption": "<strong>Sesión remota moderada</strong> con el prototipo del acceso unificado, durante la implementación de la app."
+    },
+    {
+      "src": "alignment-meeting",
+      "w": [
+        640,
+        1200
+      ],
+      "size": [
+        1200,
+        675
+      ],
+      "cls": "meeting",
+      "alt": "Equipo multidisciplinar alrededor de una mesa de reuniones con portátiles. Rostros difuminados.",
+      "caption": "<strong>Lean design y alineamiento semanal</strong> entre tecnología y arquitectura, producto y negocio, e investigación y diseño."
+    }
+  ],
+  "findings": [
+    [
+      "<strong>Patrones distintos</strong> de comportamiento y satisfacción entre clientes residenciales y móviles.",
+      []
+    ],
+    [
+      "<strong>Tres personas</strong> hicieron visibles para los equipos las diferencias en necesidades y puntos de dolor, incluidos los clientes con servicios combinados.",
+      []
+    ],
+    [
+      "La integración debía ir <strong>más allá de consolidar funcionalidades</strong>.",
+      [
+        "El acceso, la gestión de productos, la facturación, los beneficios y el paso entre el autoservicio y la atención humana definían la experiencia."
+      ]
+    ],
+    [
+      "El <strong>análisis de mercado y competitivo</strong> situó estos hallazgos en el panorama más amplio de los servicios digitales.",
+      []
+    ]
+  ],
+  "decisions": [
+    "Los hallazgos orientaron la integración de las dos experiencias de autoservicio y conversaciones más amplias sobre un <strong>ecosistema digital más conectado</strong>."
+  ],
+  "decisions_lead": "Direcciones discutidas con los equipos:",
+  "decisions_items": [
+    "Acceso unificado a los servicios residenciales y móviles.",
+    "Gestión más centralizada de los productos.",
+    "Facturación e información de servicio más sencillas.",
+    "Beneficios y servicios mejor conectados.",
+    "Atención más coherente entre canales digitales y humanos."
+  ],
+  "outcomes": [
+    "La investigación contribuyó a reunir <strong>dos apps de autoservicio</strong> en una sola experiencia, simplificando cómo los clientes accedían a sus servicios residenciales y móviles y los gestionaban.",
+    "Seguí implicada hasta la <strong>primera fase de implementación</strong>, con las primeras entregas de la integración. La integración formaba parte de una transformación más amplia que continuó después del proyecto."
+  ],
+  "stats_label": "Transformación a escala",
+  "stats": [
+    [
+      "2 → 1",
+      "Apps de autoservicio reunidas en una sola experiencia"
+    ],
+    [
+      "Decenas de millones",
+      "Usuarios activos mensuales en las dos apps, según datos públicos de 2024"
+    ],
+    [
+      "6 meses",
+      "De investigación, del discovery a la primera fase de implementación"
+    ]
+  ],
+  "contribution": [
+    "Trabajé como UX Researcher <strong>junto al responsable de UX y diseño</strong>, en la investigación y el alineamiento de la integración.",
+    "Realicé la investigación con clientes y stakeholders, analicé los journeys de los servicios residenciales y móviles, desarrollé las personas, llevé a cabo las <strong>pruebas de usabilidad</strong> y llevé la evidencia a las conversaciones con producto, diseño y tecnología.",
+    "También participé en el <strong>seguimiento semanal entre áreas</strong>, acompañando la primera fase de la integración hasta las entregas."
+  ]
+}

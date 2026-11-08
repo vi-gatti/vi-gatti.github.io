@@ -1,0 +1,9 @@
+<svg viewBox="0 0 400 300" role="img" aria-label="{label}">
+  <line class="ill-line" x1="40" y1="250" x2="370" y2="250"/>
+  <g class="ill-stroke ill-shade-fill">
+    <rect x="70" y="220" width="50" height="30"/><rect x="150" y="180" width="50" height="70"/>
+    <rect x="230" y="140" width="50" height="110"/><rect x="310" y="70" width="50" height="180"/>
+  </g>
+  <path class="ill-accent" d="M95 196 L175 160 L255 116 L335 40"/>
+  <circle class="ill-dot" cx="95" cy="196" r="5"/><circle class="ill-dot" cx="175" cy="160" r="5"/><circle class="ill-dot" cx="255" cy="116" r="5"/><circle class="ill-dot" cx="335" cy="40" r="5"/>
+</svg>

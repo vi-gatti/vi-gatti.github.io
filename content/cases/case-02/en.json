@@ -1,0 +1,165 @@
+{
+  "title": "Strategic UX Research for Digital Transformation",
+  "meta_title": "Case 02 · Strategic UX Research for Digital Transformation · Virginia Candido Gatti",
+  "meta_desc": "Case study: research on fragmented customer journeys within a digital transformation that brought residential and mobile self-service into one experience.",
+  "sub": "Research on fragmented customer journeys, within a transformation that brought residential and mobile self-service into one experience.",
+  "sector": "Telecommunications",
+  "facts": [
+    "Telecommunications",
+    "Major Brazilian telecommunications provider",
+    "6 months",
+    "2023"
+  ],
+  "tags": [
+    "Strategic UX Research",
+    "Customer Insights",
+    "Market Research",
+    "Competitive Analysis",
+    "Usability Research",
+    "Omnichannel"
+  ],
+  "cover_label": "Line illustration: two phones, one with a home icon and one with signal bars, joined by a dotted line, with circles behind.",
+  "overview": [
+    "Strategic and UX research for a major Brazilian telecommunications provider, as part of a <strong>digital transformation</strong> that brought its residential and mobile self-service apps into a single experience.",
+    "Over six months, the research connected <strong>customer evidence</strong> with product, business and technology decisions, from discovery to the first phase of implementation.",
+    "The integration was one concrete step in a wider effort to <strong>reduce fragmentation</strong> across services, systems and customer touchpoints."
+  ],
+  "context": [
+    "The company had grown over decades through different products, systems and organisational structures. Residential and mobile customers managed their services in <strong>separate apps</strong>, even when they were clients of both.",
+    "Fragmentation was also internal. Different systems and teams made it hard to build a <strong>single view of the customer</strong> and to communicate consistently across channels."
+  ],
+  "statement": "Customers should not need to understand how the company is organised in order to solve their problems.",
+  "challenge": [
+    "The task was not simply to combine two applications. It was to understand where fragmented journeys created friction, and what a <strong>more integrated service</strong> would need to offer residential, mobile and combined-service customers.",
+    "<strong>Three layers</strong> were at stake: how customers accessed and managed their services, the consistency of the experience across channels, and the integration of areas, products and systems behind it."
+  ],
+  "objectives_lead": "The research aimed to:",
+  "objectives": [
+    "Understand how different customer profiles used residential and mobile services.",
+    "Map needs and pain points in the existing digital journeys.",
+    "Examine how <strong>competing providers</strong> organised their digital services.",
+    "Identify which customer groups would be most affected by the integration.",
+    "Evaluate existing and proposed functionalities with users."
+  ],
+  "approach_intro": "A <strong>mixed-methods</strong> approach in three moments, run alongside the integration work.",
+  "stages": [
+    {
+      "title": "Research and discovery",
+      "paras": [
+        "Customer and stakeholder interviews, questionnaires, <strong>NPS and TNPS</strong> analysis, market and competitor research and journey analysis. The results were synthesised into three research-based personas."
+      ]
+    },
+    {
+      "title": "Strategic alignment",
+      "paras": [
+        "Findings were discussed with UX and design, product, technology and leadership, connecting <strong>customer evidence</strong> to the priorities of the integration."
+      ]
+    },
+    {
+      "title": "Implementation follow-up",
+      "paras": [
+        "<strong>Moderated and unmoderated usability tests</strong> continued as new flows were proposed, and weekly cross-functional meetings followed the first integration deliveries."
+      ]
+    }
+  ],
+  "photos_label": "Research in practice",
+  "photos": [
+    {
+      "src": "usability-store",
+      "w": [
+        640,
+        768
+      ],
+      "size": [
+        768,
+        910
+      ],
+      "cls": "store",
+      "alt": "Researchers conducting an in-store usability session with two customers. Faces are blurred.",
+      "caption": "<strong>In-store usability testing</strong>, observing customers move between physical and digital channels."
+    },
+    {
+      "src": "usability-remote",
+      "w": [
+        640,
+        1200
+      ],
+      "size": [
+        1200,
+        675
+      ],
+      "cls": "remote",
+      "alt": "Remote moderated usability session on a prototype of the unified login screen, with the researcher visible. Other participants are blurred.",
+      "caption": "<strong>Remote moderated session</strong> on the unified login prototype, during the app implementation."
+    },
+    {
+      "src": "alignment-meeting",
+      "w": [
+        640,
+        1200
+      ],
+      "size": [
+        1200,
+        675
+      ],
+      "cls": "meeting",
+      "alt": "Cross-functional team around a meeting table with laptops. Faces are blurred.",
+      "caption": "<strong>Lean design and weekly alignment</strong> with technology and architecture, product and business, and research and design."
+    }
+  ],
+  "findings": [
+    [
+      "<strong>Distinct patterns</strong> of behaviour and satisfaction between residential and mobile customers.",
+      []
+    ],
+    [
+      "<strong>Three personas</strong> made differences in needs and pain points visible to the teams, including customers with combined services.",
+      []
+    ],
+    [
+      "Integration had to go <strong>beyond consolidating features</strong>.",
+      [
+        "Access, product management, billing, benefits and the move between self-service and human support all shaped the experience."
+      ]
+    ],
+    [
+      "The <strong>market and competitive analysis</strong> placed these findings within the wider digital service landscape.",
+      []
+    ]
+  ],
+  "decisions": [
+    "The findings informed the integration of the two self-service experiences and wider discussions on a <strong>more connected digital ecosystem</strong>."
+  ],
+  "decisions_lead": "Directions discussed with the teams:",
+  "decisions_items": [
+    "Unified access to residential and mobile services.",
+    "More centralised management of products.",
+    "Simpler billing and service information.",
+    "Better-connected benefits and services.",
+    "More consistent support across digital and human channels."
+  ],
+  "outcomes": [
+    "The research contributed to bringing <strong>two separate self-service apps</strong> into one experience, simplifying how customers accessed and managed residential and mobile services.",
+    "I stayed involved through the <strong>first implementation phase</strong>, until the first integration deliveries. The integration was part of a wider transformation that continued after the project."
+  ],
+  "stats_label": "Transformation at scale",
+  "stats": [
+    [
+      "2 → 1",
+      "Self-service apps brought into one experience"
+    ],
+    [
+      "Tens of millions",
+      "Monthly active users across the two apps, publicly reported in 2024"
+    ],
+    [
+      "6 months",
+      "Of research, from discovery to the first implementation phase"
+    ]
+  ],
+  "contribution": [
+    "I worked as the UX Researcher <strong>alongside the UX and design manager</strong>, on the research and alignment of the integration.",
+    "I conducted customer and stakeholder research, analysed journeys across residential and mobile services, developed the personas, ran the <strong>usability tests</strong> and brought the evidence into discussions with product, design and technology.",
+    "I also took part in the <strong>weekly cross-functional follow-up</strong>, staying involved as the first phase of the integration moved into delivery."
+  ]
+}

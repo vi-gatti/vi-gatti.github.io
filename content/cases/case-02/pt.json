@@ -1,0 +1,165 @@
+{
+  "title": "Strategic UX Research para transformação digital",
+  "meta_title": "Case 02 · Strategic UX Research para transformação digital · Virginia Candido Gatti",
+  "meta_desc": "Case: pesquisa sobre jornadas fragmentadas de clientes dentro de uma transformação digital que reuniu o autoatendimento residencial e móvel em uma única experiência.",
+  "sub": "Pesquisa sobre jornadas fragmentadas de clientes, dentro de uma transformação que reuniu o autoatendimento residencial e móvel em uma única experiência.",
+  "sector": "Telecomunicações",
+  "facts": [
+    "Telecomunicações",
+    "Grande operadora de telecomunicações brasileira",
+    "6 meses",
+    "2023"
+  ],
+  "tags": [
+    "Strategic UX Research",
+    "Customer Insights",
+    "Market Research",
+    "Análise competitiva",
+    "Pesquisa de usabilidade",
+    "Omnicanalidade"
+  ],
+  "cover_label": "Ilustração em linha: dois celulares, um com o ícone de uma casa e outro com barras de sinal, ligados por uma linha pontilhada, com círculos ao fundo.",
+  "overview": [
+    "Pesquisa estratégica e de UX para uma grande operadora de telecomunicações brasileira, como parte de uma <strong>transformação digital</strong> que reuniu seus apps de autoatendimento residencial e móvel em uma única experiência.",
+    "Ao longo de seis meses, a pesquisa conectou <strong>evidências sobre os clientes</strong> às decisões de produto, negócio e tecnologia, do discovery à primeira fase de implementação.",
+    "A integração foi uma etapa concreta de um esforço mais amplo para <strong>reduzir a fragmentação</strong> entre serviços, sistemas e pontos de contato com o cliente."
+  ],
+  "context": [
+    "A empresa cresceu ao longo de décadas com diferentes produtos, sistemas e estruturas organizacionais. Clientes residenciais e móveis gerenciavam seus serviços em <strong>apps separados</strong>, mesmo quando eram clientes dos dois.",
+    "A fragmentação também era interna. Sistemas e equipes diferentes dificultavam construir uma <strong>visão única do cliente</strong> e se comunicar de forma consistente entre os canais."
+  ],
+  "statement": "O cliente não deveria precisar entender como a empresa se organiza para conseguir resolver seus problemas.",
+  "challenge": [
+    "O desafio não era apenas juntar dois aplicativos. Era entender onde as jornadas fragmentadas geravam atrito e o que um <strong>serviço mais integrado</strong> precisaria oferecer a clientes residenciais, móveis e com serviços combinados.",
+    "<strong>Três camadas</strong> estavam em jogo: como os clientes acessavam e gerenciavam seus serviços, a consistência da experiência entre canais e a integração de áreas, produtos e sistemas por trás dela."
+  ],
+  "objectives_lead": "A pesquisa buscou:",
+  "objectives": [
+    "Compreender como diferentes perfis de clientes usavam os serviços residenciais e móveis.",
+    "Mapear necessidades e pontos de dor nas jornadas digitais existentes.",
+    "Examinar como as <strong>operadoras concorrentes</strong> organizavam seus serviços digitais.",
+    "Identificar quais grupos de clientes seriam mais afetados pela integração.",
+    "Avaliar funcionalidades existentes e propostas com usuários."
+  ],
+  "approach_intro": "Uma abordagem de <strong>métodos mistos</strong> em três momentos, conduzida junto com o trabalho de integração.",
+  "stages": [
+    {
+      "title": "Pesquisa e discovery",
+      "paras": [
+        "Entrevistas com clientes e stakeholders, questionários, análise de <strong>NPS e TNPS</strong>, pesquisa de mercado e de concorrentes e análise de jornadas. Os resultados foram sintetizados em três personas baseadas em pesquisa."
+      ]
+    },
+    {
+      "title": "Alinhamento estratégico",
+      "paras": [
+        "As descobertas foram discutidas com UX e design, produto, tecnologia e lideranças, conectando as <strong>evidências sobre os clientes</strong> às prioridades da integração."
+      ]
+    },
+    {
+      "title": "Acompanhamento da implementação",
+      "paras": [
+        "<strong>Testes de usabilidade moderados e não moderados</strong> continuaram à medida que novos fluxos eram propostos, e reuniões semanais entre as áreas acompanharam as primeiras entregas da integração."
+      ]
+    }
+  ],
+  "photos_label": "Pesquisa na prática",
+  "photos": [
+    {
+      "src": "usability-store",
+      "w": [
+        640,
+        768
+      ],
+      "size": [
+        768,
+        910
+      ],
+      "cls": "store",
+      "alt": "Pesquisadoras conduzindo um teste de usabilidade em loja com dois clientes. Rostos desfocados.",
+      "caption": "<strong>Teste de usabilidade em loja</strong>, observando clientes transitarem entre os canais físico e digital."
+    },
+    {
+      "src": "usability-remote",
+      "w": [
+        640,
+        1200
+      ],
+      "size": [
+        1200,
+        675
+      ],
+      "cls": "remote",
+      "alt": "Sessão remota moderada de usabilidade com o protótipo da tela de login unificada, com a pesquisadora visível. Os demais participantes estão desfocados.",
+      "caption": "<strong>Sessão moderada remota</strong> com o protótipo do login unificado, durante a implementação do app."
+    },
+    {
+      "src": "alignment-meeting",
+      "w": [
+        640,
+        1200
+      ],
+      "size": [
+        1200,
+        675
+      ],
+      "cls": "meeting",
+      "alt": "Equipe multidisciplinar em volta de uma mesa de reunião com notebooks. Rostos desfocados.",
+      "caption": "<strong>Lean design e alinhamento semanal</strong> entre tecnologia e arquitetura, produto e negócio, e pesquisa e design."
+    }
+  ],
+  "findings": [
+    [
+      "<strong>Padrões distintos</strong> de comportamento e satisfação entre clientes residenciais e móveis.",
+      []
+    ],
+    [
+      "<strong>Três personas</strong> tornaram visíveis para as equipes as diferenças de necessidades e pontos de dor, incluindo clientes com serviços combinados.",
+      []
+    ],
+    [
+      "A integração precisava ir <strong>além da consolidação de funcionalidades</strong>.",
+      [
+        "Acesso, gestão de produtos, faturas, benefícios e a passagem entre o autoatendimento e o atendimento humano moldavam a experiência."
+      ]
+    ],
+    [
+      "A <strong>análise de mercado e competitiva</strong> situou essas descobertas no cenário mais amplo de serviços digitais.",
+      []
+    ]
+  ],
+  "decisions": [
+    "As descobertas subsidiaram a integração das duas experiências de autoatendimento e discussões mais amplas sobre um <strong>ecossistema digital mais conectado</strong>."
+  ],
+  "decisions_lead": "Direções discutidas com as equipes:",
+  "decisions_items": [
+    "Acesso unificado aos serviços residenciais e móveis.",
+    "Gestão mais centralizada dos produtos.",
+    "Faturas e informações de serviço mais simples.",
+    "Benefícios e serviços mais conectados.",
+    "Atendimento mais consistente entre canais digitais e humanos."
+  ],
+  "outcomes": [
+    "A pesquisa contribuiu para reunir <strong>dois apps de autoatendimento</strong> em uma única experiência, simplificando a forma como os clientes acessavam e gerenciavam serviços residenciais e móveis.",
+    "Acompanhei o projeto até a <strong>primeira fase de implementação</strong>, com as primeiras entregas da integração. A integração fazia parte de uma transformação mais ampla, que continuou depois do projeto."
+  ],
+  "stats_label": "Transformação em escala",
+  "stats": [
+    [
+      "2 → 1",
+      "Apps de autoatendimento reunidos em uma única experiência"
+    ],
+    [
+      "Dezenas de milhões",
+      "Usuários ativos por mês nos dois apps, segundo dados públicos de 2024"
+    ],
+    [
+      "6 meses",
+      "De pesquisa, do discovery à primeira fase de implementação"
+    ]
+  ],
+  "contribution": [
+    "Atuei como UX Researcher <strong>ao lado do gestor de UX e design</strong>, na pesquisa e no alinhamento da integração.",
+    "Conduzi a pesquisa com clientes e stakeholders, analisei as jornadas dos serviços residenciais e móveis, desenvolvi as personas, realizei os <strong>testes de usabilidade</strong> e levei as evidências às discussões com produto, design e tecnologia.",
+    "Também participei do <strong>acompanhamento semanal entre as áreas</strong>, seguindo a primeira fase da integração até as entregas."
+  ]
+}

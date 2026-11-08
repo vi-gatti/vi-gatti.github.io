@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 300" role="img" aria-label="{label}">
+  <g class="ill-stroke ill-fill">
+    <rect x="30" y="40" width="70" height="46" rx="6"/><rect x="120" y="40" width="70" height="46" rx="6"/>
+    <rect x="210" y="40" width="70" height="46" rx="6"/><rect x="300" y="40" width="70" height="46" rx="6"/>
+  </g>
+  <g class="ill-thin"><rect x="40" y="52" width="14" height="10" rx="2"/><rect x="130" y="52" width="14" height="10" rx="2"/><rect x="220" y="52" width="14" height="10" rx="2"/><rect x="310" y="52" width="14" height="10" rx="2"/></g>
+  <path class="ill-thin" d="M65 86 C 65 140, 120 140, 120 190M155 86 C 155 140, 120 140, 120 190M245 86 C 245 140, 120 140, 120 190M335 86 C 335 140, 120 140, 120 190"/>
+  <path class="ill-accent ill-dash" d="M65 86 C 65 150, 280 130, 280 190"/>
+  <rect class="ill-stroke ill-fill" x="60" y="190" width="120" height="74" rx="6"/>
+  <rect class="ill-accent ill-dash" x="220" y="190" width="120" height="74" rx="6"/>
+  <rect class="ill-thin" x="102" y="204" width="36" height="46" rx="2"/><path class="ill-thin" d="M110 216h20M110 226h20M110 236h14"/>
+  <rect class="ill-thin" x="266" y="202" width="28" height="50" rx="5"/>
+</svg>

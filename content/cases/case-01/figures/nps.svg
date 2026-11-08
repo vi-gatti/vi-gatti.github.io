@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 300" role="img" aria-label="{label}">
+  <g class="ill-shade">
+    <rect x="48" y="200" width="16" height="50"/><rect x="76" y="210" width="16" height="40"/><rect x="104" y="226" width="16" height="24"/><rect x="132" y="224" width="16" height="26"/>
+    <rect x="160" y="222" width="16" height="28"/><rect x="188" y="226" width="16" height="24"/><rect x="216" y="214" width="16" height="36"/><rect x="244" y="208" width="16" height="42"/>
+    <rect x="272" y="200" width="16" height="50"/><rect x="300" y="202" width="16" height="48"/><rect x="328" y="198" width="16" height="52"/><rect x="356" y="206" width="16" height="44"/>
+  </g>
+  <line class="ill-line" x1="36" y1="250" x2="380" y2="250"/>
+  <path class="ill-accent" d="M56 120 C 90 70, 110 100, 140 104 S 200 96, 230 80 S 300 70, 364 84"/>
+  <path class="ill-stroke" d="M56 96 C 90 92, 110 120, 140 128 S 200 136, 230 118 S 300 100, 364 104"/>
+  <path class="ill-thin ill-dash" d="M56 108 C 90 100, 110 110, 140 116 S 200 112, 230 100 S 300 92, 364 96"/>
+</svg>

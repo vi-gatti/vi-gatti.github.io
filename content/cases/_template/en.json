@@ -1,0 +1,92 @@
+{
+  "title": "[Case title]",
+  "meta_desc": "[One sentence for search engines.]",
+  "sub": "[One sentence under the title.]",
+  "sector": "[Sector]",
+  "facts": [
+    "[Industry]",
+    "[Organisation, anonymised]",
+    "[Duration]",
+    "[Year]"
+  ],
+  "tags": [
+    "[Area 1]",
+    "[Area 2]",
+    "[Area 3]"
+  ],
+  "cover_label": "[Short description of the cover illustration, for screen readers.]",
+  "overview": [
+    "[Lede: what the project was.]",
+    "[What the research combined.]",
+    "[Highlight: the key result.]"
+  ],
+  "context": [
+    "[Paragraph.]",
+    "[Paragraph.]"
+  ],
+  "statement": "[The central challenge, in one or two lines.]",
+  "challenge": [
+    "[Paragraph.]"
+  ],
+  "objectives_lead": "The research aimed to:",
+  "objectives": [
+    "[Objective.]",
+    "[Objective.]",
+    "[Objective.]"
+  ],
+  "approach_intro": "[One line on the approach.]",
+  "stages": [
+    {
+      "title": "[Stage]",
+      "paras": [
+        "[What was done.]"
+      ]
+    },
+    {
+      "title": "[Stage]",
+      "paras": [
+        "[What was done.]"
+      ]
+    }
+  ],
+  "findings": [
+    [
+      "[Finding with one <strong>key term</strong>.]",
+      [
+        "[Explanation.]"
+      ]
+    ],
+    [
+      "[Finding.]",
+      []
+    ]
+  ],
+  "decisions": [
+    "[How the findings were used.]"
+  ],
+  "decisions_lead": "[Directions discussed with the teams:]",
+  "decisions_items": [
+    "[Item.]",
+    "[Item.]",
+    "[Item.]"
+  ],
+  "outcomes": [
+    "[What happened after the research.]"
+  ],
+  "stats_label": "[Label for the figures]",
+  "stats": [
+    [
+      "[Figure]",
+      "[What it means]"
+    ],
+    [
+      "[Figure]",
+      "[What it means]"
+    ]
+  ],
+  "outcomes_note": "[Source or limits of the figures.]",
+  "contribution": [
+    "[My role.]",
+    "[What I did.]"
+  ]
+}
