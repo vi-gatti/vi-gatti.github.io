@@ -2,6 +2,15 @@
 
 Site estático em três idiomas (inglês, espanhol e português). As páginas finais ficam em `docs/` e são HTML puro, prontas para qualquer hospedagem.
 
+## Onde fica cada coisa no GitHub
+
+Repositório: `vi-gatti/vi-gatti.github.io`
+
+- Ramo `source`: o projeto completo (textos, cases, estrutura, script de build). Não é publicado.
+- Ramo `main`: o site pronto, publicado pelo GitHub Pages em https://vi-gatti.github.io.
+
+Para publicar uma mudança: edite no ramo `source`, rode `python3 build.py` e copie o conteúdo da pasta `docs/` para a raiz do ramo `main`.
+
 ## Visualizar
 
 ```bash
