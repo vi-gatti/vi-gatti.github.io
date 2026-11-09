@@ -1,0 +1,19 @@
+<svg class="contact-ill" viewBox="0 0 300 420" role="img" aria-label="{label}">
+  <circle class="ill-accent ill-dash" cx="150" cy="210" r="122"/>
+  <circle class="ill-shade" cx="150.0" cy="160.0" r="50" opacity="0.55"/>
+  <circle class="ill-shade" cx="193.3" cy="235.0" r="50" opacity="0.55"/>
+  <circle class="ill-shade" cx="106.7" cy="235.0" r="50" opacity="0.55"/>
+  <circle class="ill-stroke" cx="150.0" cy="160.0" r="50"/>
+  <circle class="ill-stroke" cx="193.3" cy="185.0" r="50"/>
+  <circle class="ill-stroke" cx="193.3" cy="235.0" r="50"/>
+  <circle class="ill-stroke" cx="150.0" cy="260.0" r="50"/>
+  <circle class="ill-stroke" cx="106.7" cy="235.0" r="50"/>
+  <circle class="ill-stroke" cx="106.7" cy="185.0" r="50"/>
+  <circle class="ill-dot" cx="193.3" cy="135.0" r="3.5"/>
+  <circle class="ill-dot" cx="236.6" cy="210.0" r="3.5"/>
+  <circle class="ill-dot" cx="193.3" cy="285.0" r="3.5"/>
+  <circle class="ill-dot" cx="106.7" cy="285.0" r="3.5"/>
+  <circle class="ill-dot" cx="63.4" cy="210.0" r="3.5"/>
+  <circle class="ill-dot" cx="106.7" cy="135.0" r="3.5"/>
+  <circle class="ill-dot" cx="150" cy="210" r="6"/>
+</svg>

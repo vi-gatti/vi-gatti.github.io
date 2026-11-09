@@ -118,6 +118,11 @@ def render(lang, filename, text, layout):
         "email": CONTACT["email"],
         "email_href": f"mailto:{CONTACT['email']}",
     }
+    html = re.sub(r"\{\{svg:([a-z0-9-]+)\|([^}]*)\}\}",
+                  lambda m: (SRC.parent / "content" / "illustrations" / f"{m.group(1)}.svg")
+                  .read_text(encoding="utf-8").strip().replace("{label}", m.group(2)), html)
+    if meta.get("section") == "contact":
+        html = re.sub(r'\s*<div class="site-footer__main">.*?</ul>\s*</div>', "", html, count=1, flags=re.S)
     for key, value in contact.items():
         html = html.replace("{{" + key + "}}", value)
     return html.replace("{{root}}", root)
