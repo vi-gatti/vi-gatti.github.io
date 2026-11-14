@@ -1,0 +1,442 @@
+{
+"NielsenIQ": [
+"smartrecruiters",
+"NielsenIQ"
+],
+"adyen": [
+"greenhouse",
+"adyen"
+],
+"airtable": [
+"greenhouse",
+"airtable"
+],
+"alan": [
+"ashby",
+"alan"
+],
+"algolia": [
+"greenhouse",
+"algolia"
+],
+"amplitude": [
+"ashby",
+"amplitude"
+],
+"appinio": [
+"greenhouse_eu",
+"appinio"
+],
+"babbel": [
+"ashby",
+"babbel"
+],
+"backmarket": [
+"ashby",
+"backmarket"
+],
+"belvo": [
+"ashby",
+"belvo"
+],
+"bitpanda": [
+"greenhouse",
+"bitpanda"
+],
+"blablacar": [
+"lever",
+"blablacar"
+],
+"buffer": [
+"ashby",
+"buffer"
+],
+"cabify": [
+"greenhouse",
+"cabify"
+],
+"canonical": [
+"greenhouse",
+"canonical"
+],
+"capchase": [
+"ashby",
+"capchase"
+],
+"celonis": [
+"greenhouse",
+"celonis"
+],
+"chattermill": [
+"ashby",
+"chattermill"
+],
+"cint": [
+"ashby",
+"cint"
+],
+"coinspaid": [
+"lever",
+"coinspaid"
+],
+"contentful": [
+"greenhouse",
+"contentful"
+],
+"contentsquare": [
+"lever",
+"contentsquare"
+],
+"coursera": [
+"greenhouse",
+"coursera"
+],
+"dataiku": [
+"greenhouse",
+"dataiku"
+],
+"deliveroo": [
+"greenhouse",
+"deliveroo"
+],
+"docplanner": [
+"ashby",
+"docplanner"
+],
+"doctolib": [
+"ashby",
+"doctolib"
+],
+"dovetail": [
+"ashby",
+"dovetail"
+],
+"dscout": [
+"greenhouse",
+"dscout"
+],
+"duolingo": [
+"greenhouse",
+"duolingo"
+],
+"ebanx": [
+"greenhouse",
+"ebanx"
+],
+"ebury": [
+"greenhouse",
+"ebury"
+],
+"elastic": [
+"greenhouse",
+"elastic"
+],
+"feedzai": [
+"greenhouse",
+"feedzai"
+],
+"feverup": [
+"greenhouse",
+"feverup"
+],
+"figma": [
+"greenhouse",
+"figma"
+],
+"finom": [
+"lever",
+"pnlfin"
+],
+"fotocasa": [
+"greenhouse",
+"fotocasa"
+],
+"fullstory": [
+"ashby",
+"fullstory"
+],
+"getyourguide": [
+"ashby",
+"getyourguide"
+],
+"gitbook": [
+"ashby",
+"gitbook"
+],
+"gitlab": [
+"greenhouse",
+"gitlab"
+],
+"gocardless": [
+"greenhouse",
+"gocardless"
+],
+"gympass": [
+"greenhouse",
+"gympass"
+],
+"hellofresh": [
+"greenhouse",
+"hellofresh"
+],
+"holded": [
+"recruitee",
+"holded"
+],
+"hostaway": [
+"recruitee",
+"hostaway"
+],
+"hygraph": [
+"recruitee",
+"hygraph"
+],
+"intercom": [
+"greenhouse",
+"intercom"
+],
+"jobandtalent": [
+"lever",
+"jobandtalent"
+],
+"jobgether": [
+"lever",
+"jobgether"
+],
+"kavak": [
+"lever",
+"kavak"
+],
+"ledger": [
+"ashby",
+"ledger"
+],
+"lemonade": [
+"ashby",
+"lemonade"
+],
+"lodgify": [
+"lever",
+"lodgify"
+],
+"mirakl": [
+"greenhouse",
+"mirakl"
+],
+"miro": [
+"ashby",
+"miro"
+],
+"mixpanel": [
+"greenhouse",
+"mixpanel"
+],
+"mollie": [
+"ashby",
+"mollie"
+],
+"monzo": [
+"greenhouse",
+"monzo"
+],
+"moss": [
+"ashby",
+"moss"
+],
+"mozilla": [
+"greenhouse",
+"mozilla"
+],
+"n26": [
+"greenhouse",
+"n26"
+],
+"n8n": [
+"ashby",
+"n8n"
+],
+"nfq": [
+"lever",
+"nfq"
+],
+"notion": [
+"ashby",
+"notion"
+],
+"nubank": [
+"ashby",
+"nubank"
+],
+"oyster": [
+"ashby",
+"oyster"
+],
+"paddle": [
+"ashby",
+"paddle"
+],
+"pencil": [
+"ashby",
+"pencil"
+],
+"pendo": [
+"greenhouse",
+"pendo"
+],
+"perk": [
+"ashby",
+"perk"
+],
+"personio": [
+"recruitee",
+"personio"
+],
+"photoroom": [
+"ashby",
+"photoroom"
+],
+"pleo": [
+"ashby",
+"pleo"
+],
+"pliant": [
+"ashby",
+"pliant"
+],
+"posthog": [
+"ashby",
+"posthog"
+],
+"preply": [
+"ashby",
+"preply"
+],
+"proton": [
+"greenhouse",
+"proton"
+],
+"qonto": [
+"ashby",
+"qonto"
+],
+"qualtrics": [
+"greenhouse",
+"qualtrics"
+],
+"raisin": [
+"greenhouse",
+"raisin"
+],
+"remofirst": [
+"workable",
+"remofirst"
+],
+"remote": [
+"greenhouse",
+"remote"
+],
+"satispay": [
+"ashby",
+"satispay"
+],
+"sequra": [
+"recruitee",
+"sequra"
+],
+"sesame": [
+"ashby",
+"sesame"
+],
+"slashdata": [
+"workable",
+"slashdata"
+],
+"solarisbank": [
+"greenhouse",
+"solarisbank"
+],
+"sorare": [
+"ashby",
+"sorare"
+],
+"spotify": [
+"lever",
+"spotify"
+],
+"stone": [
+"greenhouse",
+"stone"
+],
+"sumup": [
+"greenhouse",
+"sumup"
+],
+"supabase": [
+"ashby",
+"supabase"
+],
+"super": [
+"greenhouse_eu",
+"super"
+],
+"swile": [
+"lever",
+"swile"
+],
+"swordhealth": [
+"greenhouse",
+"swordhealth"
+],
+"tinybird": [
+"lever",
+"tinybird"
+],
+"trustpilot": [
+"greenhouse",
+"trustpilot"
+],
+"typeform": [
+"greenhouse",
+"typeform"
+],
+"uipath": [
+"ashby",
+"uipath"
+],
+"veriff": [
+"greenhouse",
+"veriff"
+],
+"voicemod": [
+"ashby",
+"voicemod"
+],
+"vtex": [
+"greenhouse",
+"vtex"
+],
+"wallapop": [
+"greenhouse",
+"wallapop"
+],
+"wikimedia": [
+"greenhouse",
+"wikimedia"
+],
+"wise": [
+"smartrecruiters",
+"wise"
+],
+"wolt": [
+"greenhouse",
+"wolt"
+],
+"zapier": [
+"ashby",
+"zapier"
+],
+"zego": [
+"ashby",
+"zego"
+]
+}
