@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vi-gatti.github.io/sitemap.xml
