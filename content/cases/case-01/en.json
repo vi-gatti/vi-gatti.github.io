@@ -15,7 +15,8 @@
     "Competitive Intelligence",
     "Product Discovery",
     "Strategic Research",
-    "Business Feasibility"
+    "Business Feasibility",
+    "AI-assisted Research"
   ],
   "cover_label": "Line illustration: a corporate card with a protection shield, a city skyline and a plane on a dotted route.",
   "overview": [
@@ -151,6 +152,31 @@
   ],
   "contribution": [
     "I helped define the <strong>research priorities</strong> with stakeholders and conducted the research across market, competitive and business dimensions.",
-    "My work included Brazilian and international <strong>benchmarking</strong>, analysis of propositions and distribution models, internal data analysis, synthesis of findings and participation in the strategic discussions on feasibility."
-  ]
+    "My work included Brazilian and international <strong>benchmarking</strong>, analysis of propositions and distribution models, internal data analysis, synthesis of findings and participation in the strategic discussions on feasibility.",
+    "I used AI-assisted workflows in desk research, benchmarking organisation and synthesis, while the interpretation and recommendations remained mine."
+  ],
+  "ai_workflow": {
+    "label": "AI-augmented workflow",
+    "intro": "AI-assisted workflows, used within the institution’s approved enterprise environment, supported specific steps of the study. Interpretation, recommendations and the feasibility assessment remained human-led.",
+    "steps": [
+      {
+        "title": "Planning &amp; intelligence",
+        "paras": [
+          "Structuring the research brief and plan, and supporting desk research on the Brazilian market and international references."
+        ]
+      },
+      {
+        "title": "Benchmarking &amp; data organisation",
+        "paras": [
+          "Organising value propositions, positioning and distribution models from comparable markets, and supporting the analysis of internal business data."
+        ]
+      },
+      {
+        "title": "Synthesis &amp; communication",
+        "paras": [
+          "Supporting the synthesis of findings and the structure of executive materials for the decision discussions."
+        ]
+      }
+    ]
+  }
 }

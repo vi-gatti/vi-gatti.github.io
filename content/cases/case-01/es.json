@@ -15,7 +15,8 @@
     "Competitive Intelligence",
     "Product Discovery",
     "Strategic Research",
-    "Viabilidad de negocio"
+    "Viabilidad de negocio",
+    "Investigación asistida por IA"
   ],
   "cover_label": "Ilustración de líneas: una tarjeta corporativa con un escudo de protección, el perfil de edificios de una ciudad y un avión en una ruta punteada.",
   "overview": [
@@ -151,6 +152,31 @@
   ],
   "contribution": [
     "Ayudé a definir las <strong>prioridades de investigación</strong> con los stakeholders y realicé la investigación en las dimensiones de mercado, competencia y negocio.",
-    "Mi trabajo incluyó <strong>benchmarking</strong> nacional e internacional, análisis de propuestas y modelos de distribución, análisis de datos internos, síntesis de hallazgos y participación en las discusiones estratégicas sobre viabilidad."
-  ]
+    "Mi trabajo incluyó <strong>benchmarking</strong> nacional e internacional, análisis de propuestas y modelos de distribución, análisis de datos internos, síntesis de hallazgos y participación en las discusiones estratégicas sobre viabilidad.",
+    "Utilicé flujos de trabajo asistidos por IA en la investigación secundaria, la organización del benchmarking y la síntesis, mientras la interpretación y las recomendaciones fueron mías."
+  ],
+  "ai_workflow": {
+    "label": "Flujo de trabajo asistido por IA",
+    "intro": "Flujos de trabajo asistidos por IA, usados dentro del entorno corporativo aprobado por la institución, apoyaron etapas concretas del estudio. La interpretación, las recomendaciones y la evaluación de viabilidad siguieron en manos humanas.",
+    "steps": [
+      {
+        "title": "Planificación e inteligencia",
+        "paras": [
+          "Estructuración del briefing y del plan de investigación, y apoyo a la investigación secundaria sobre el mercado brasileño y referencias internacionales."
+        ]
+      },
+      {
+        "title": "Benchmarking y organización de datos",
+        "paras": [
+          "Organización de propuestas de valor, posicionamiento y modelos de distribución de mercados comparables, y apoyo al análisis de datos internos de negocio."
+        ]
+      },
+      {
+        "title": "Síntesis y comunicación",
+        "paras": [
+          "Apoyo a la síntesis de hallazgos y a la estructura de los materiales ejecutivos para las conversaciones de decisión."
+        ]
+      }
+    ]
+  }
 }

@@ -201,6 +201,25 @@ def render_case(case, lang, cases):
                 </ol>{note}
               </figcaption>
             </figure>'''
+    if c.get("ai_workflow"):
+        aw = c["ai_workflow"]
+        rows = "\n".join(f'''                <li>
+                  <div class="stages__head">
+                    <p class="label">{k:02d}</p>
+                    <h3>{st["title"]}</h3>
+                  </div>
+                  <div class="stages__body">
+{ps(st["paras"], 20)}
+                  </div>
+                </li>''' for k, st in enumerate(aw["steps"], 1))
+        body += f'''
+            <div class="ai-workflow">
+              <p class="label">{aw["label"]}</p>
+              <p class="ai-workflow__intro">{aw["intro"]}</p>
+              <ol class="stages">
+{rows}
+              </ol>
+            </div>'''
     S.append(section(4, ui, body))
 
     # 06 findings, then customer voices when present

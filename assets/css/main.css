@@ -1780,3 +1780,12 @@ html[data-theme="dark"] .contact-hero__art { background: #DCCDC0; padding: 0.75r
   .contact-page__body { grid-template-columns: minmax(0, 28fr) minmax(0, 72fr); }
   .contact-page__art { max-width: 16rem; }
 }
+
+/* 29. About: AI in my research practice ------------------------------- */
+.ai-practice { max-width: 60rem; }
+.ai-practice > .lede { max-width: 44em; margin-bottom: 2rem; }
+.ai-practice .statement { margin-top: 2.5rem; }
+.ai-practice__note { margin-top: 1.25rem; font-size: var(--fs-xs); color: var(--ink-soft); max-width: 52em; }
+/* Case: optional AI-augmented workflow block */
+.ai-workflow { margin-top: 2.5rem; }
+.ai-workflow__intro { margin: 0.75rem 0 1.25rem; max-width: 46em; }

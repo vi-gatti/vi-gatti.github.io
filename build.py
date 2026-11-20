@@ -105,6 +105,16 @@ def render(lang, filename, text, layout):
         "nav": nav, "langs": langs, "main": main, "year": YEAR,
         "confidential": cfg["confidential"], "theme": cfg["theme"],
     }
+    person = {
+        "@context": "https://schema.org", "@type": "Person", "name": "Virginia Candido Gatti",
+        "jobTitle": "Researcher: Strategic Research, UX Research and Consumer Insights",
+        "url": BASE_URL or None, "sameAs": [CONTACT["linkedin"]],
+        "address": {"@type": "PostalAddress", "addressRegion": "Valencian Community", "addressCountry": "ES"},
+        "knowsAbout": ["Strategic Research", "UX Research", "Consumer Insights", "Behavioural Research",
+                       "Research Operations", "Research Synthesis", "Product Discovery", "Service Design",
+                       "AI-assisted Research", "Knowledge Management"],
+    }
+    values["alternates"] += '  <script type="application/ld+json">' + json.dumps(person, ensure_ascii=False) + "</script>\n"
     html = layout
     for key, value in values.items():
         html = html.replace("{{" + key + "}}", value)
@@ -150,6 +160,12 @@ def main():
             target.write_text(render(lang, name, text, layout), encoding="utf-8")
             count += 1
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
+    if BASE_URL:
+        urls = sorted(str(p.relative_to(OUT)) for p in OUT.rglob("*.html"))
+        (OUT / "sitemap.xml").write_text(
+            '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            + "".join(f"  <url><loc>{BASE_URL}{u}</loc></url>\n" for u in urls) + "</urlset>\n", encoding="utf-8")
+        (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n", encoding="utf-8")
     print(f"Built {count} pages into {OUT}")
 
 
