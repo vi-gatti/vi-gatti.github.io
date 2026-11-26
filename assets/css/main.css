@@ -2067,3 +2067,5 @@ html[data-theme="dark"] .contact-hero__art { background: #DCCDC0; padding: 0.75r
 .home-contact .contact-rows li { grid-template-columns: 6.5rem minmax(0, 1fr); }
 .diagram__lead { margin: -0.25rem 0 1rem; font-size: var(--fs-sm); color: var(--ink-soft); max-width: 52em; }
 .handoff__uses { display: block; font-size: var(--fs-xs); color: var(--link); }
+.home-methods__label { margin-top: 1.75rem; }
+.home-methods__label + .home-methods { margin-top: 0.5rem; }
