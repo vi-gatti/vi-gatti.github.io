@@ -2013,3 +2013,46 @@ html[data-theme="dark"] .contact-hero__art { background: #DCCDC0; padding: 0.75r
   .handoff__link svg { display: none; }
   .handoff__link::before { content: "↓"; font-size: var(--fs-lg); line-height: 1; }
 }
+
+/* 30.8 Layers as a funnel: broad at the top, specific at the bottom */
+.funnel__axis { display: none; }
+@media (min-width: 48rem) {
+  .funnel { display: grid; grid-template-columns: 5.5rem minmax(0, 1fr); column-gap: 1.25rem; }
+  .funnel__axis {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0.25rem 0;
+    font-size: var(--fs-xs);
+    color: var(--ink-soft);
+  }
+  .funnel__axis::before {
+    content: "";
+    position: absolute;
+    left: 0.35rem;
+    top: 1.9rem;
+    bottom: 1.9rem;
+    border-left: 1.5px dashed var(--terracotta);
+  }
+  .funnel__axis::after {
+    content: "";
+    position: absolute;
+    left: calc(0.35rem - 4px);
+    bottom: 1.6rem;
+    width: 7px;
+    height: 7px;
+    border-right: 1.5px solid var(--terracotta);
+    border-bottom: 1.5px solid var(--terracotta);
+    transform: rotate(45deg);
+  }
+  .funnel .layer { grid-template-columns: minmax(0, 1fr); text-align: center; justify-items: center; }
+  .funnel .layer p { max-width: 46ch; }
+  .funnel .layer--1 { margin-inline: 0; }
+  .funnel .layer--2 { margin-inline: 10%; }
+  .funnel .layer--3 { margin-inline: 20%; }
+}
+@media (min-width: 48rem) { .funnel .layer p { margin-inline: auto; } }
+.ill-shade-light { fill: color-mix(in srgb, var(--clay) 12%, var(--paper)); stroke: none; }
