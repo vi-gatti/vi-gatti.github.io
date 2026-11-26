@@ -25,7 +25,7 @@
       <div class="site-header__nav">
         <nav aria-label="Principal">
           <ul class="nav">
-            <li><a href="about.html">Sobre</a></li>
+            <li><a href="index.html">Início</a></li>
             <li><a href="work.html" aria-current="page">Projetos</a></li>
             <li><a href="contact.html">Contato</a></li>
           </ul>
@@ -199,12 +199,12 @@
               <h2 id="insights-title">Principais insights</h2>
             </header>
             <div class="prose">
-              <p>Quem concentra o relacionamento com o banco não é necessariamente quem contrata o seguro, e as cadeiras em torno de uma decisão podem <strong>puxar em direções diferentes</strong>. O comportamento da empresa, mais do que o porte, definia como a proteção era contratada.</p>
+              <p>Quem concentra o relacionamento com o banco não é necessariamente quem contrata o seguro, e as cadeiras em torno de uma decisão podem <strong>puxar em direções diferentes</strong>. O comportamento da empresa, mais do que o porte, definia como a proteção era contratada. Uma persona única de comprador não daria conta disso: as cadeiras envolvidas mudavam conforme o produto e a empresa.</p>
             </div>
             <figure class="diagram">
               <p class="label">Um ecossistema de decisão B2B</p>
               <div class="ecosystem">
-                <div class="ecosystem__core"><strong>Decisão de seguro</strong><span>Quem tem o relacionamento nem sempre é quem contrata</span></div>
+                <div class="ecosystem__core"><strong>Decisão de seguro</strong></div>
                 <div class="role role--fin">
                   <h3>Financeiro</h3>
                   <p>Muitas vezes centraliza o relacionamento com o banco.</p>
@@ -219,8 +219,8 @@
                   <p>Participa de algumas decisões, ou as aprova.</p>
                 </div>
                 <div class="role role--risk">
-                  <h3>Riscos e áreas técnicas</h3>
-                  <p>Avaliam riscos, coberturas patrimoniais ou questões técnicas.</p>
+                  <h3>Riscos, jurídico e compras</h3>
+                  <p>Avaliam riscos, coberturas patrimoniais ou questões técnicas, conforme o produto e a empresa.</p>
                 </div>
               </div>
               <p class="diagram__note">“Ecossistema de decisão B2B” é um termo do portfólio para descrever o que a pesquisa investigou, não a nomenclatura interna do banco.</p>
@@ -242,7 +242,7 @@
               <h2 id="framework-title">Framework de inteligência de cliente</h2>
             </header>
             <div class="prose">
-              <p>As descobertas foram organizadas em <strong>camadas de conhecimento sobre o cliente</strong>. Os perfis por produto preservavam a profundidade de cada mercado; os arquétipos davam uma primeira leitura comum, aplicável a qualquer produto.</p>
+              <p>O banco já segmentava sua carteira por porte, setor e modelo de relacionamento: Middle, Large e CIB, além de grupos como Óleo e Gás, Imobiliário e multinacionais. Esses segmentos orientavam o relacionamento bancário, não a forma como as empresas lidavam com seguros. A pesquisa acrescentou uma <strong>camada complementar, específica de seguros</strong>: quatro arquétipos transversais para uma primeira leitura e perfis por produto para aprofundar.</p>
             </div>
             <figure class="diagram">
               <p class="label">Um modelo de inteligência de cliente em camadas</p>
@@ -263,12 +263,15 @@
                 </li>
               </ol>
               </div>
+            </figure>
+            <figure class="diagram">
+              <p class="label">Do relacionamento bancário à oferta especializada</p>
               <div class="handoff">
                 <div class="handoff__card">
                   <p class="label">Relacionamento bancário</p>
                   <h3>Officer comercial</h3>
                   <p>Identifica oportunidades e o contexto do cliente no relacionamento bancário.</p>
-                  <p class="handoff__uses"><span class="pill">Camada 1</span><span class="pill">Camada 3</span></p>
+                  <p class="handoff__uses">Usa os arquétipos, os critérios de identificação e as perguntas de diagnóstico.</p>
                 </div>
                 <div class="handoff__link">
                   <svg viewBox="0 0 120 24" aria-hidden="true"><path class="handoff__arrow" d="M4 12 H110"/><path class="handoff__head" d="M104 5 L114 12 L104 19"/></svg>
@@ -278,7 +281,7 @@
                   <p class="label">Especialista em seguros</p>
                   <h3>Consultor de seguros</h3>
                   <p>Aprofunda a necessidade e conduz a abordagem especializada.</p>
-                  <p class="handoff__uses"><span class="pill">Camada 2</span><span class="pill">Camada 3</span></p>
+                  <p class="handoff__uses">Usa os perfis por produto, os argumentos e o contexto repassado pelo officer.</p>
                 </div>
               </div>
             </figure>
@@ -287,26 +290,27 @@
             </div>
             <figure class="diagram">
               <p class="label">Os quatro arquétipos transversais</p>
+              <p class="diagram__lead">Os arquétipos descrevem padrões de atitude e decisão da empresa, não pessoas: o que o cliente valoriza e como o time comercial deve abordá-lo.</p>
               <ul class="archetypes">
                 <li class="archetype">
                   <div class="archetype__head"><h3>Fidelizado</h3><span class="pill">Farmer</span></div>
                   <p class="archetype__focus">Recorrência, relacionamento e sustentabilidade</p>
-                  <dl><dt>Melhor conversa</dt><dd>Check-ins, antecipação de riscos, ajustes contínuos</dd></dl>
+                  <dl><dt>O cliente valoriza</dt><dd>Confiança, disponibilidade, experiência fluida</dd><dt>Melhor conversa</dt><dd>Check-ins, antecipação de riscos, ajustes contínuos</dd></dl>
                 </li>
                 <li class="archetype">
                   <div class="archetype__head"><h3>Familiar</h3><span class="pill pill--accent">Hunter</span></div>
                   <p class="archetype__focus">Conquista, educação e conversão</p>
-                  <dl><dt>Melhor conversa</dt><dd>Novidades, mudanças regulatórias, casos práticos</dd></dl>
+                  <dl><dt>O cliente valoriza</dt><dd>Relação pessoal, segurança, simplicidade</dd><dt>Melhor conversa</dt><dd>Novidades, mudanças regulatórias, casos práticos</dd></dl>
                 </li>
                 <li class="archetype">
                   <div class="archetype__head"><h3>Especializado</h3><span class="pill">Farmer</span></div>
                   <p class="archetype__focus">Técnica, personalização e valor</p>
-                  <dl><dt>Melhor conversa</dt><dd>Estruturação sob medida, diferenciais da seguradora</dd></dl>
+                  <dl><dt>O cliente valoriza</dt><dd>Conhecimento profundo e customização</dd><dt>Melhor conversa</dt><dd>Estruturação sob medida, diferenciais da seguradora</dd></dl>
                 </li>
                 <li class="archetype">
                   <div class="archetype__head"><h3>Obrigatório</h3><span class="pill pill--accent">Hunter</span></div>
                   <p class="archetype__focus">Eficiência, cobertura e disciplina</p>
-                  <dl><dt>Melhor conversa</dt><dd>Cumprimento regulatório, preço, prazo, execução</dd></dl>
+                  <dl><dt>O cliente valoriza</dt><dd>Preço, prazo, execução</dd><dt>Melhor conversa</dt><dd>Cumprimento regulatório, preço, prazo, execução</dd></dl>
                 </li>
               </ul>
               <p class="diagram__note">Cada arquétipo também definia o objetivo do consultor, a frequência de visitas, a postura esperada e os indicadores-chave. Redesenhado e anonimizado a partir de material interno.</p>
@@ -319,7 +323,7 @@
               <h2 id="application-title">Aplicação comercial e impacto</h2>
             </header>
             <div class="prose">
-              <p>Cada consultor de seguros atendia <strong>15 a 20 officers comerciais</strong>, cada um com uma carteira de clientes. A personalização precisava começar antes de o consultor entrar na conversa, e por isso a base de clientes precisava ser classificada.</p>
+              <p>Cada consultor de seguros atendia <strong>15 a 20 officers comerciais</strong>, cada um com uma carteira de clientes. A personalização precisava começar antes de o consultor entrar na conversa, e por isso a base de clientes precisava ser classificada. Os arquétipos davam uma primeira qualificação para toda a carteira; os perfis por produto permitiam aprofundar depois.</p>
             </div>
             <figure class="diagram">
               <p class="label">Por que a base de clientes precisava ser classificada</p>
@@ -386,7 +390,7 @@
             </header>
             <p class="lede">Traduzi uma realidade organizacional complexa em um <strong>modelo de decisão utilizável pelo negócio</strong>.</p>
             <div class="prose">
-              <p>Conduzi pesquisas nas linhas de seguro, sintetizei os resultados em perfis por produto e arquétipos transversais e ajudei a construir sua <strong>aplicação comercial</strong>. Trabalhei com o time de dados nos critérios de classificação e participei dos pilotos. Deixei o banco em julho de 2026, quando a aplicação em escala ainda estava em andamento.</p>
+              <p>Conduzi pesquisas nas linhas de seguro, sintetizei os resultados em perfis por produto e desenvolvi o framework de arquétipos transversais, junto com os <strong>materiais e critérios comerciais</strong>. Trabalhei com o time de dados na análise e classificação da carteira e participei dos pilotos. Quando deixei o banco, em julho de 2026, a aplicação em escala estava em andamento, e a identificação de oportunidades com apoio de IA ainda estava em exploração.</p>
             </div>
           </section>
 
