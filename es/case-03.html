@@ -68,7 +68,7 @@
   <line class="ill-line" x1="80" y1="620" x2="1520" y2="620"/>
   <path class="ill-shade" d="M180 620 A 420 420 0 0 1 600 200 V 620 Z"/>
   <path class="ill-stroke" d="M180 620 A 420 420 0 0 1 600 200"/>
-  <path class="ill-thin" d="M320 620 A 280 280 0 0 1 600 340"/>
+  <path class="ill-shade-light" d="M320 620 A 280 280 0 0 1 600 340 V 620 Z"/><path class="ill-thin" d="M320 620 A 280 280 0 0 1 600 340"/>
   <path class="ill-accent ill-fill" d="M460 620 A 140 140 0 0 1 600 480 V 620 Z"/>
   <line class="ill-thin ill-dash" x1="600" y1="200" x2="600" y2="620"/>
   <rect class="ill-shade" x="868" y="248" width="230" height="372"/>
@@ -246,7 +246,9 @@
             </div>
             <figure class="diagram">
               <p class="label">Un modelo de inteligencia de cliente por capas</p>
-              <ol class="layers">
+              <div class="funnel">
+                <p class="funnel__axis" aria-hidden="true"><span>Amplio</span><span>Específico</span></p>
+                <ol class="layers">
                 <li class="layer layer--1">
                   <p class="layer__tag">Capa 1 · Visión transversal</p>
                   <div><h3>4 arquetipos de clientes</h3><p>Una primera lectura del contexto y el comportamiento de la empresa, para orientar el enfoque comercial.</p></div>
@@ -260,7 +262,7 @@
                   <div><h3>Assessment y guías de enfoque</h3><p>Preguntas de diagnóstico, argumentos, criterios para detectar oportunidades y pautas sobre cuándo implicar al especialista.</p></div>
                 </li>
               </ol>
-              <p class="layers-axis" aria-hidden="true"><span>Amplio y objetivo</span><span>Específico y aplicado</span></p>
+              </div>
               <div class="handoff">
                 <div class="handoff__card">
                   <p class="label">Relación bancaria</p>

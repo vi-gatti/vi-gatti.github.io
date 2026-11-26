@@ -68,7 +68,7 @@
   <line class="ill-line" x1="80" y1="620" x2="1520" y2="620"/>
   <path class="ill-shade" d="M180 620 A 420 420 0 0 1 600 200 V 620 Z"/>
   <path class="ill-stroke" d="M180 620 A 420 420 0 0 1 600 200"/>
-  <path class="ill-thin" d="M320 620 A 280 280 0 0 1 600 340"/>
+  <path class="ill-shade-light" d="M320 620 A 280 280 0 0 1 600 340 V 620 Z"/><path class="ill-thin" d="M320 620 A 280 280 0 0 1 600 340"/>
   <path class="ill-accent ill-fill" d="M460 620 A 140 140 0 0 1 600 480 V 620 Z"/>
   <line class="ill-thin ill-dash" x1="600" y1="200" x2="600" y2="620"/>
   <rect class="ill-shade" x="868" y="248" width="230" height="372"/>
@@ -246,7 +246,9 @@
             </div>
             <figure class="diagram">
               <p class="label">A layered customer intelligence model</p>
-              <ol class="layers">
+              <div class="funnel">
+                <p class="funnel__axis" aria-hidden="true"><span>Broad</span><span>Specific</span></p>
+                <ol class="layers">
                 <li class="layer layer--1">
                   <p class="layer__tag">Layer 1 · Transversal view</p>
                   <div><h3>4 customer archetypes</h3><p>A first reading of the company’s context and behaviour, to guide the commercial approach.</p></div>
@@ -260,7 +262,7 @@
                   <div><h3>Assessment and approach guides</h3><p>Diagnostic questions, arguments, criteria to spot opportunities and guidance on when to bring in a specialist.</p></div>
                 </li>
               </ol>
-              <p class="layers-axis" aria-hidden="true"><span>Broad and objective</span><span>Specific and applied</span></p>
+              </div>
               <div class="handoff">
                 <div class="handoff__card">
                   <p class="label">Banking relationship</p>
