@@ -2056,3 +2056,14 @@ html[data-theme="dark"] .contact-hero__art { background: #DCCDC0; padding: 0.75r
 }
 @media (min-width: 48rem) { .funnel .layer p { margin-inline: auto; } }
 .ill-shade-light { fill: color-mix(in srgb, var(--clay) 12%, var(--paper)); stroke: none; }
+
+/* 31. Home: profile facts, research practice and contact ----------------- */
+.intro-facts { margin-top: 1.5rem; max-width: 40rem; }
+.home-methods { margin-top: 1.25rem; max-width: 48rem; }
+.ai-practice .list-lead { margin-top: 2.25rem; }
+.ai-practice > .home-ai { margin-top: 1rem; }
+.ai-practice > .statement { margin-top: 2.5rem; }
+.home-contact { max-width: 44rem; }
+.home-contact .contact-rows li { grid-template-columns: 6.5rem minmax(0, 1fr); }
+.diagram__lead { margin: -0.25rem 0 1rem; font-size: var(--fs-sm); color: var(--ink-soft); max-width: 52em; }
+.handoff__uses { display: block; font-size: var(--fs-xs); color: var(--link); }
